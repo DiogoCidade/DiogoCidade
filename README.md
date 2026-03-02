@@ -18,6 +18,7 @@ Essas experiências desenvolveram disciplina, pensamento estratégico, tomada de
 - PHP  
 - PostgreSQL  
 - MySQL  
+*Em constante aprendizado...
 
 Além da programação, aplico fundamentos de Engenharia de Software priorizando organização, modelagem, arquitetura e escalabilidade.
 
@@ -41,6 +42,7 @@ These experiences shaped my mindset: discipline, strategic thinking, decision-ma
 - PHP  
 - PostgreSQL  
 - MySQL  
+*Constantly learning...
 
 Beyond coding, I apply Software Engineering principles focused on structure, architecture, modeling and scalability.
 
